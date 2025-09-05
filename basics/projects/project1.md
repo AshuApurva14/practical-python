@@ -5,7 +5,9 @@
 
 ## Task
 
--  Let’s take it a step further! Write a Python print statement that prints one of your favorite quotes. The quote can be from a movie, a book, or perhaps even your own.
+-  Let’s take it a step further! Write a Python print statement that prints one of your favorite quotes. The quote can be from a movie, a book, or perhaps even your own
+
+[solution](basics/projects/project1.md)
 
 ---
 
