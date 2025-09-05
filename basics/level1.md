@@ -3,7 +3,7 @@
 - In this level, we will be learning and exploring about *print()* function to learn how we can print any text in the output.
 
 ```
-print("Thanks)
+print("Thanks")
 
 ```
 
