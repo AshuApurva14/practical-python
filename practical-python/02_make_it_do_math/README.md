@@ -1,49 +1,39 @@
 ## Make it do Math
 
-Learn how to use +, -, *, /, and print() with numbers.
+### Learn how to use +, -, *, /, and print() with numbers.
 
-Check out - [math_basics.py](./math_basics.py) for practical hands on
+*Check out - [math_basics.py](./math_basics.py) for practical hands on.*
 
 
-Arithmetic Operator
+### Arithmetic Operator
 
-Operation
+**Operations**
 
 Example
 
-+
-
-	Addition
+ - Addition(+)
 
 	10 + 5 results in 15
 
--
-
-	Subtraction
+- Subtraction(-)
 
 	10 - 5 results in 5
 
-*
-
-	Multiplication
+- Multiplication(*)
 
 	10 * 5 results in 50
 
-/
-
-Division
+- Division(/)
 
 	10 / 5 results in 2
 
-%
-
-Modulus
+- Modulus(%)
 
 10 % 5 results in 0
 
 Note: The modulus operator (%) gives us the remainder after division.
 
-For example:
+**For example:**
 
 Ace Editor
 This prints 1 because 10 divided by 3 is 3 with a remainder of 1.
@@ -53,13 +43,13 @@ This prints 1 because 10 divided by 3 is 3 with a remainder of 1.
 What’s happening here?
 We use Python like a calculator, and it’s doing exactly what we say:
 
-+ adds
+- adds (+)
 
-- subtracts
+- subtracts (-)
 
-* multiplies
+- multiplies (*)
 
-/ divides
+- divides  (/)
 
 Just like in math class, but a lot more fun (and forgiving).
 
