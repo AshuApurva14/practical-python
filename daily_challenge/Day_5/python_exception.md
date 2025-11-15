@@ -33,7 +33,7 @@ except:
 
 ### Type of exception in python
 
-1. Zero division error
+<img width="2678" height="1480" alt="Image" src="https://github.com/user-attachments/assets/c1290cb1-a5c1-4fff-8740-d36b05aca655" />
 
 
 ### Example:
