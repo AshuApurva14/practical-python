@@ -45,7 +45,45 @@ print(var_list)
 
 print(var_list[5:2:-1])
 
+# -----------------------------------------------------------------#-----------------------------------------------------------------#
+
+my_str = "Sargam"
+
+# Iterate over string usng for loop
+
+# for char in my_str:
+    
+#     print(char)
 
 
+#  Common strings methods
 
+print(len(my_str))  # Find length of a string
+
+print(my_str.upper())  # Convert all characters of string to upper
+
+print(my_str.lower())  # Convery all the character of string to lower
+
+print(my_str.strip())  # Remove all trailing and leading spaces from a string
+
+print(my_str.replace("g", "G"))  # Replace occurance of specific characters in a string
+
+# Common String Operations
+
+my_str2 = "sound"  # String concatenation
+
+new_str = my_str + "" + my_str2
+
+print(my_str[3])  # indexing ---> it returns 3 characters of the string
+
+# print(my_str[7])  # Throw an error as ---> String index out of range
+
+
+print(new_str[6])  # Prints the space between the two strings
+
+print(my_str[-1]) # print the last character of  the string
+
+print(my_str[-6])  # print the first character of the string
+
+print(my_str[0:4])  # String slicing
 
