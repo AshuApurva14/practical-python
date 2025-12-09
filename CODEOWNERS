@@ -1,0 +1,6 @@
+# This is a CODEOWNERS file.
+# Each line is a file pattern followed by one or more owners.
+# Owners are GitHub usernames or team names prefixed with @.
+
+# Set kundan Kundankkrishna as the owner for all files
+* @Kundankkrishna
